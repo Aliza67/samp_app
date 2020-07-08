@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_edt_input_width">306dp</dimen>
+    <dimen name="dimen_edt_input_height">50dp</dimen>
+    <dimen name="text_size">18dp</dimen>
+</resources>

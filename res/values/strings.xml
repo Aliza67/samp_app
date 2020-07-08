@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sample app</string>
+    <string name="type_your_first_name">Type your first name</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="type_your_last_name">Type your last name</string>
+    <string name="c_continue">continue</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="activity2_name">Your Profile</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="type_your_middle_name">Type your middle name</string>
+    <string name="but_continue">continue</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="you_ve_created_an_account">You\'ve created an account</string>
+</resources>
